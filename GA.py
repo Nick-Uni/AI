@@ -55,6 +55,7 @@ def ga():
     for generation in xrange(generations):
 
         print "Generetations: " + str(generation)
+        
 
         individuals = fitness(individuals)
         individuals = selection(individuals)
