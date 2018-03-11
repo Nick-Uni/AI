@@ -45,6 +45,7 @@ range1 = -20
 range2 = 20
 population = 50
 generations = 100
+
 #mutrate = = 0.1
 
 
